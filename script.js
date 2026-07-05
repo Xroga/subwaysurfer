@@ -1,0 +1,1 @@
+document.querySelectorAll('.btn-primary').forEach(b=>b.addEventListener('click',()=>alert('Thanks for visiting!')));
